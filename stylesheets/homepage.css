@@ -1,0 +1,16 @@
+/*Homepage*/
+html {
+    height: 100%;
+}
+
+body {
+  background: #000080;
+  background: -webkit-linear-gradient(to right bottom, #000080, #FFA07A);
+  background:    -moz-linear-gradient(to right bottom, #000080, #FFA07A);
+  background:         linear-gradient(to right bottom, #000080, #FFA07A);
+  background-repeat: no-repeat;
+}
+
+h1, p {
+  color: #FFFFFF;
+}
