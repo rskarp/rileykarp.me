@@ -24,17 +24,6 @@ p {
   color: #FFFFFF;
 }
 
-footer {
-  color: white;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #000080;
-  padding: 10px 10px;
-  font-size: 12px
-}
-
 a {
   text-decoration: none;
   color: #FFFFFF;
