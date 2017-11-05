@@ -5,6 +5,7 @@ html {
     height: 100%;
 }
 
+/*Background gradient*/
 body {
   background: #000080;
   background: -webkit-linear-gradient(to right bottom, #000080, #FFA07A);
@@ -13,17 +14,17 @@ body {
   background-repeat: no-repeat;
 }
 
-h1{
+/*Name*/
+h1 {
   color: #FFFFFF;
   font-weight: bold;
   font-size: 150px;
   text-align: center;
+  position: relative;
+  top: 75px;
 }
 
-p {
-  color: #FFFFFF;
-}
-
+/*Links*/
 a {
   text-decoration: none;
   color: #FFFFFF;
@@ -34,6 +35,7 @@ a:hover {
   color: #000080;
 }
 
+/*Buttons*/
 section {
   border-radius: 5px;
   color: #FFFFFF;
@@ -53,26 +55,31 @@ section:hover {
   border: 5px solid #000080;
 }
 
+/*Button Positions*/
 #about {
   float: left;
   position: relative;
   left: 20%;
+  top: 75px;
 }
 
 #dali {
   float: left;
   position: relative;
   left: 25%;
+  top: 75px;
 }
 
 #hobbies {
   float: left;
   position: relative;
   left: 25%;
+  top: 50px;
 }
 
 #resume {
   float: left;
   position: relative;
   left: 20%;
+  top: 50px;
 }

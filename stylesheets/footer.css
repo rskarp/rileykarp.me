@@ -1,0 +1,39 @@
+/*Footer Stylesheet
+Riley Karp
+11/4/2017*/
+
+/*Footer*/
+footer {
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000080;
+  padding: 10px 10px;
+  font-size: 16px;
+}
+
+/*Social Media Buttons*/
+.social {
+  /*Circle*/
+  background: #FFA07A;
+  padding: 5px 5px;
+  width: 15px;
+  text-align: center;
+  border-radius: 50%;
+
+  /*Text*/
+  color: #000080;
+  font-size: 16px;
+
+  /*Position*/
+  position: relative;
+  float: right;
+  right: 20px;
+}
+
+.social:hover {
+  color: #FFA07A; /*Text*/
+  background: white; /*Circle*/
+}
