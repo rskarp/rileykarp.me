@@ -45,3 +45,8 @@ p {
 .para:hover {
   background: white;
 }
+
+/*Resume download link*/
+#resumePDF {
+  margin-bottom: 1%;
+}
