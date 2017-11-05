@@ -12,3 +12,36 @@ body {
   background: #FFA07A;
   color: #000080;
 }
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+
+  text-align: center;
+  line-height: 125%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/*Links*/
+.bio {
+  float: none;
+  text-decoration: none;
+  color: white;
+  background: none;
+  font-size: 20px;
+  padding: 0;
+  display: inline;
+}
+
+.bio:hover {
+  background: white;
+}
