@@ -6,6 +6,9 @@ header {
   width: 100%;
   background: #000080;
   float: left;
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
 
 a {
